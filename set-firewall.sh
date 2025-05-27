@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RELAY_PORT="11106"
+RELAY_PORT="11283"
 
 # Bersihkan rules sebelumnya
 iptables -F
